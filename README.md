@@ -29,4 +29,5 @@ reboot
 make up
 ```
 > if make command not found run command below to install make
+>
 > `sudo apt install make`
